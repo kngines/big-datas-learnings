@@ -1,6 +1,6 @@
-# big-datas-analysis
+# big\_datas\_analysis
 - 开始日期: 20200209
-	- 数据分析笔记
+	- 大数据分析笔记
 
 ---
 - 20200210
